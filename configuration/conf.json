@@ -1,0 +1,6 @@
+{
+  "bot": {
+    "token": "tokengoeshere",
+    "prefix": "l!"
+  }
+}
